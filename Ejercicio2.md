@@ -22,3 +22,17 @@
 
 ## Enlace a pagina Web
 [Marca](https://www.marca.com)
+
+## enlace a otro fichero
+
+
+## Imagen 
+
+
+#tabla
+
+| hola | que | tal |
+|----------|----------|----------|
+| Angel    | lorem  | 1   |
+| herrera    | ipsum   | 2   |
+| Allende    | etc   | 3   |
