@@ -27,7 +27,7 @@
 
 
 ## Imagen 
-![Mi marca de agua](Carpeta de imagenes/cypj7m8k07bz (3).jpg)
+![Mi marca de agua]([Carpeta de imagenes/cypj7m8k07bz (3).jpg](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/cypj7m8k07bz%20(3).jpg))
 
 
 ##tabla
