@@ -24,7 +24,7 @@
 [Marca](https://www.marca.com)
 
 ## enlace a otro fichero
-
+[Fichero](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/cosas/fichero-relleno.md)
 
 ## Imagen 
 ![Mi marca de agua](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/cypj7m8k07bz%20(3).jpg)
