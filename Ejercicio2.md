@@ -34,6 +34,6 @@
 
 | hola | que | tal |
 |----------|----------|----------|
-| Angel    | lorem  | 1   |
-| herrera    | ipsum   | 2   |
-| Allende    | etc   | 3   |
+| Efectivamente   | lorem  | 1   |
+|  facts   | ipsum   | 2   |
+| Pyro 2019 :D    | etc   | 3   |
