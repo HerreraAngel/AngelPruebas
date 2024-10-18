@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f7952cd-b5db-4f19-b793-0c6b4c7bc94c)# ACTIVIDAD 4 
+
 
 ## Paso 1
 Empezamos clonando el repositorio 
