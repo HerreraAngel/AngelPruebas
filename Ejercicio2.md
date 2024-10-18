@@ -2,8 +2,11 @@
 
 ## Subtítulo
 
-Este es un párrafo con **palabras en negrita**, *palabras en cursiva*, y `código`. 
+**Lorem**, *ipsum*, y `Print "Hello World"`. 
 
-```python
-def suma(a, b):
-  return a + b
+
+`Print "Hello World"`
+
+1. Primer elemento de la lista
+2. Segundo elemento de la lista
+3. Tercer elemento de la lista
