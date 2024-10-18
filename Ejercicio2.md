@@ -7,6 +7,10 @@
 
 `Print "Hello World"`
 
-1. Primer elemento de la lista
-2. Segundo elemento de la lista
-3. Tercer elemento de la lista
+
+- un triste tigre
+- dos triste tigre
+* tres triste tigre
+* cuatro triste tigre
++ cinco triste tigre
++ seis triste tigre
