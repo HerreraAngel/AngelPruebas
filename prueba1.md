@@ -29,5 +29,20 @@ Intalamos git en nuestra maquina
 
 ![7.1]( https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/6.1.PNG)
 
+Tras esto clonaremos nuestro repositorio 
+
+
+![8](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/7.PNG)
+
+
+
+
+Creamos 2 ficheros y los commiteamos
+![9](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/creacion%20de%20ficheros%20test.PNG)
+
+Tras esto se nos solocita editarlo por lo que iremos  a nuestro editor de texto y lo editaremos 
+![10](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/Captura.PNG)
+
+![11](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/edicion.PNG)
 
 
