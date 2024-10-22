@@ -1,48 +1,39 @@
-#Ejercicio 1: Introducción a git y GitHub
+# Ejercicio 1: Introducción a Git y GitHub
 
+## Creando nuestra cuenta de GitHub
+Primero, comenzamos creando nuestra cuenta en GitHub. A continuación, se muestra una captura de pantalla del proceso:
 
+![Crear cuenta en GitHub](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/1.PNG)
 
+## Generación de la clave SSH
+A continuación, generamos nuestra clave SSH, que nos permitirá autenticar nuestra conexión con GitHub de forma segura. Aquí están las imágenes que muestran el proceso:
 
- 
-Empezamos creando nuestra cuenta de github 
-![1](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/1.PNG)
+![Generación de clave SSH - Paso 1](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/2.PNG)
+![Generación de clave SSH - Paso 2](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/3.PNG)
+![Generación de clave SSH - Paso 3](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/4.PNG)
 
+## Conexión a la máquina a través de SSH con Git Bash
+Después de generar la clave, nos conectamos a nuestra máquina utilizando SSH a través de Git Bash:
 
+![Conexión SSH con Git Bash](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/5.PNG)
 
-Generamos nuestra clave ssh
-![2](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/2.PNG)
+## Instalación de Git
+Ahora procederemos a instalar Git en nuestra máquina. A continuación, se presentan capturas de pantalla del proceso de instalación:
 
- 
+![Instalación de Git - Paso 1](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/6.PNG)
+![Instalación de Git - Paso 2](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/6.1.PNG)
 
-![3](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/3.PNG)
+## Clonación del repositorio
+Una vez que Git está instalado, clonaremos nuestro repositorio en la máquina local:
 
- 
-![4](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/4.PNG)
+![Clonación del repositorio](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/7.PNG)
 
+## Creación y commit de archivos
+A continuación, creamos dos ficheros, los cuales añadimos y commiteamos en nuestro repositorio:
 
-Tras esto nos conectaremos  a la maquina desde ssh con gitBash
+![Creación de ficheros y commit](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/creacion%20de%20ficheros%20test.PNG)
 
-![6](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/5.PNG)
+Luego, se nos solicita editar uno de los ficheros. Para ello, abrimos nuestro editor de texto y realizamos las modificaciones necesarias:
 
-Intalamos git en nuestra maquina
-![7]( https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/6.PNG)
-
-![7.1]( https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/6.1.PNG)
-
-Tras esto clonaremos nuestro repositorio 
-
-
-![8](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/7.PNG)
-
-
-
-
-Creamos 2 ficheros y los commiteamos
-![9](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/creacion%20de%20ficheros%20test.PNG)
-
-Tras esto se nos solocita editarlo por lo que iremos  a nuestro editor de texto y lo editaremos 
-![10](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/Captura.PNG)
-
-![11](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/edicion.PNG)
-
-
+![Edición de ficheros - Paso 1](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/Captura.PNG)
+![Edición de ficheros - Paso 2](https://github.com/HerreraAngel/AngelPruebasAsir2/blob/main/Carpeta%20de%20imagenes/ejercicio1/edicion.PNG)
